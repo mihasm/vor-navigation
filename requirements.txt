@@ -1,0 +1,13 @@
+numpy
+requests
+geomag
+geopy
+avwx
+descartes
+openpyxl
+matplotlib
+haversine
+pyproj
+folium
+lxml
+bs4
